@@ -1,0 +1,29 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "#D",
+            "##",
+            "##"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:dirt"
+            },
+            "D": {
+                "item": "minecraft:dirt",
+                "data": 1
+            }
+        },
+        "result": {
+            "item": "minecraft:quartz_block",
+            "count": 1
+        },
+        "description": {
+            "identifier": "crafting:quartz"
+        }
+    }
+}

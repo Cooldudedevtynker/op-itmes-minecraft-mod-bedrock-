@@ -1,0 +1,26 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "#D"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:ender_pearl"
+            },
+            "D": {
+                "item": "minecraft:dirt"
+            }
+        },
+        "result": {
+            "item": "minecraft:ender_eye",
+            "count": 1
+        },
+        "description": {
+            "identifier": "crafting:ender pearl"
+        }
+    }
+}
